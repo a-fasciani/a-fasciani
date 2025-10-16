@@ -1,6 +1,6 @@
 ## Hi,
 
-I'm a jurist based in Geneva, currently exploring how **technology and law** can work together.  
+I'm a lawyer based in Geneva, currently exploring how **technology and law** can work together.  
 I’ve started learning **Python**, with the goal of developing small, well-structured projects that make everyday life easier or help me explore new ideas.  
 
 ---
